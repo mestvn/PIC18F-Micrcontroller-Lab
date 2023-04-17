@@ -1,11 +1,12 @@
 # PIC18F-Microcontroller-Lab
 ## ECE3101L: Introduction to Microcontrollers
 There was no recorded demo as this was done in Fall 2022, but here's a picture!
-- link to picture
+![Circuit Picture](FinalLab_Pic.mov)
 
 **Board:** Custom Development Board from Professor
 
-**Board Reference:** - link to picture
+**Board Reference:**
+![Dev Board Schematic](Development_Board_Schematic.pdf)
 
 **Microcontroller:** PIC18F4620
 
@@ -13,4 +14,5 @@ There was no recorded demo as this was done in Fall 2022, but here's a picture!
 
 **Serial Terminal Software:** TeraTerm
 
-**Schematic:** - link to schematic
+**Schematic:**
+![Lab Schematic](FinalLab_Schematic.pdf)
